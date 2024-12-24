@@ -1,8 +1,4 @@
 # BlueChat-Assignment
-Here's a sample `README.md` file for your **BlueChat-Assignment** project:  
-
-```markdown
-# BlueChat-Assignment
 
 ## 📋 Project Overview
 **BlueChat-Assignment** is a chat dashboard built using **React.js**. This application provides an intuitive user interface for managing and viewing chats, with features such as a header, left sidebar, chat section, and right sidebar. It demonstrates modern front-end development practices and React's component-based architecture.
@@ -28,7 +24,7 @@ Here's a sample `README.md` file for your **BlueChat-Assignment** project:
 
 ---
 
-## 📂 Project Structure
+## 💂️ Project Structure
 ```
 BlueChat-Assignment/
 ├── public/                # Public assets (e.g., favicon, index.html)
@@ -85,7 +81,7 @@ BlueChat-Assignment/
 
 ---
 
-## 🤝 Contributing
+## 🦝 Contributing
 1. Fork the project.
 2. Create your feature branch:
    ```bash
@@ -116,6 +112,4 @@ For any queries, feel free to reach out:
 ---
 
 Happy Coding! 🚀
-```
 
-Let me know if you'd like any additional sections or modifications!
